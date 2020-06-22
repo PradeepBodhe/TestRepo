@@ -6,5 +6,4 @@ this is unicorn commit.
 This is master branch.
 
 testing of 2 branch merge.
-Hello, testing is going on
-still testing is in progress
+
